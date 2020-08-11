@@ -64,6 +64,11 @@ body {
 .content p {
   margin-bottom: 10px;
 }
+
+.rightSection {
+   float: right;
+}
+
 #header {
   z-index: 2;
   position: fixed;
