@@ -27,6 +27,11 @@
     background: #222;
     width: 100%;
     margin: 0px;
+
+      float: none;
+      display: block;
+      text-align: left;
+	
 }
   #nav ul li {
    margin: 0;
