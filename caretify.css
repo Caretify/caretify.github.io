@@ -21,8 +21,8 @@ nav .logo {
    font-weight: bold;
 }
 nav .links:hover {
-   background-color: rgb(150, 140, 60);
-   color: rgb(42, 10, 94);
+   background-color: rgb(200, 230, 130);
+   color: rgb(150, 140, 60);
 }
 nav .selected {
    background-color: dodgerblue;
