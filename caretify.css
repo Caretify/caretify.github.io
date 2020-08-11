@@ -1,14 +1,14 @@
 * {box-sizing: border-box;}
 nav {
    overflow: hidden;
-   background-color: #330b7c;
+   background-color: #4BDC7D;
    padding: 10px;
 }
 .links {
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    font-weight: bold;
    float: left;
-   color:white;
+   color:#C3A864;
    text-align: center;
    padding: 12px;
    text-decoration: none;
