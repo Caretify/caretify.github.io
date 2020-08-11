@@ -1,19 +1,6 @@
 @media (max-width: 599px) {
 	
-  /*shows elements in a column*/
-  ul{
-    flex-direction: column;
-  }
-  
-  /* deletes margin on top or bottom of the a tag*/
-  li{
-    margin: 0;
-  }
- /* makes sure that the a tag will take the entire screen*/
-  a{
-    display: block;
-  }
-  
+
   button{
     /*makes the button visible*/
     display: block;
@@ -32,7 +19,7 @@
     /*this put the button on the left*/
     align-self: flex-start;
   }
-/*	
+	
   #header .container {
     width: 100%;
   }
@@ -57,16 +44,19 @@
     background: #222;
     width: 100%;
     margin: 0px;
+    flex-direction: column;
   }
   #nav ul li {
-    float: none;
+   margin: 0;
+   float: none;
   }
   #nav ul li a {
     padding: 10px 3%;
     line-height: 20px;
     border-top: 1px solid #333;
-  }
-*/  
+    display: block;
+   }
+  
 }
 
 body {
