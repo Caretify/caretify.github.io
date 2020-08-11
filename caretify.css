@@ -8,6 +8,7 @@
     padding-left: 3%;
   }
   #nav {
+    position: relative;
     width: 100%;
     top: 60px;
   }
