@@ -30,6 +30,7 @@
     width: 100%;
     top: 60px;
   }
+/*  
   #nav:before {
     content: '\2630';
     display: block;
@@ -40,6 +41,7 @@
     font-size: 1.4em;
     cursor: pointer;
   }
+*/  
   #nav ul {
     background: #222;
     width: 100%;
